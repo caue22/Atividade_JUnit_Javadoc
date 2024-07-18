@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Variacao","l":"multiplicaEDividePeloPrimeiro(int, int)","u":"multiplicaEDividePeloPrimeiro(int,int)"},{"p":"<Unnamed>","c":"Variacao","l":"Variacao(Calculadora)","u":"%3Cinit%3E(Calculadora)"},{"p":"<Unnamed>","c":"Variacao","l":"variacaoDeProducao(double, double)","u":"variacaoDeProducao(double,double)"}];updateSearchResults();
